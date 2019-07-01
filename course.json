@@ -1,0 +1,45 @@
+{
+    "title": "HTML Introduction",
+    "engine": "codingavenue/ca-school-html-engine:latest",
+    "description": "Build your first web page with HTML, the World Wide Web's markup language.",
+    "authors": [
+  
+    {
+      "name": "Taylor",
+      "description": "Taylor has been programming since he was 12. He reviews the content to fix issues for the overall improvement of the course.",
+      "imagePath": "Taylor.jpg"
+    },
+  
+    {
+      "name": "Ella",
+      "description": "Ella has taught programming courses for 12 years. She brings her teaching expertise in designing the course.",
+      "imagePath": "Ella.jpg"
+    },
+  
+    {
+      "name": "Bal",
+      "description": "Bal has been editing and writing for the web for 8 years. He edits the content of the course.",
+      "imagePath": "Bal.jpg"
+    },
+
+    { 
+        "name": "Redge",
+        "description": "Redge has been working as a software developer, programmer, technical consultant, and Pre-Computer Studies teacher since 2012. She writes the content of the course.",
+        "imagePath": "Redge.jpg"
+    },
+  
+    {
+      "name": "Jerome",
+      "description": "Jerome is a web developer with a background in DevOps. He develops the proof libraries and maintains the sandbox of CodeStop.",
+      "imagePath": "Jerome.jpg"
+    },
+  
+    {
+      "name": "Arnold",
+      "description": "Arnold is a web developer and college instructor who specializes in functional design. He designs and develops the features and functionalities of CodeStop.",
+      "imagePath": "Arnold.jpg"
+    }
+    
+  ]
+  
+  }
